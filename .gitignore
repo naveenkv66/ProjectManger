@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PresentationLayer/node_modules
+/ProjectManagerService/.vs
+/ProjectManagerService/packages
+/ProjectManagerService/ProjectManager.BusinessLayer/bin/Debug
+/ProjectManagerService/ProjectManager.BusinessLayer/obj/Debug
+/ProjectManagerService/ProjectManager.CommonEntities/bin/Debug
+/ProjectManagerService/ProjectManager.CommonEntities/obj/Debug
+/ProjectManagerService/ProjectManager.DataAccessLayer/bin/Debug
+/ProjectManagerService/ProjectManager.DataAccessLayer/obj/Debug
+/ProjectManagerService/ProjectManager.InterfaceLayer/bin/Debug
+/ProjectManagerService/ProjectManager.InterfaceLayer/obj/Debug
+/ProjectManagerService/ProjectManagerService/bin
+/ProjectManagerService/ProjectManagerService/obj/Debug
+/ProjectManagerService/ProjectManagerService.Tests/bin/Debug
+/ProjectManagerService/ProjectManagerService.Tests/obj/Debug
+/PresentationLayer/dist/ProjectManagerUI
+/ProjectManagerService/ProjectManagerService.Tests/coverage

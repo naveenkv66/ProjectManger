@@ -1,0 +1,2 @@
+UI  - http://localhost:3442/
+API - http://localhost/ProjectManagerService/api/Users/GetUsers
